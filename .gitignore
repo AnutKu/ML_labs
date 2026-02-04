@@ -1,0 +1,28 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env
+.DS_Store
+*.egg-info/
+build/
+dist/
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Notebook outputs (optional — keep if you want clean repo)
+# *.ipynb
+
+# Data
+*.csv
+*.sqlite
+
+# Windows
+Thumbs.db
+Desktop.ini
